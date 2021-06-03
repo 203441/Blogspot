@@ -1,0 +1,151 @@
+* {
+    padding: 00;
+    margin: 0;
+    
+}
+body{
+    background-image: url("/assets/img/5.jpg");
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 18px;  
+    text-align: justify;
+}
+
+header{
+    background: #383e56;
+    color: black;
+    padding: 10px;
+}
+
+header img {
+    width: 60px;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    background: #919BD9;
+
+}
+
+.main img{
+    width: 250px;
+    height: auto;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 30px;
+    text-align: center;
+    font-size: 10;
+}
+
+h4{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+.cont{
+    width: 1000px;
+    background-color: #8F5E31;
+    margin: 20px auto;
+}
+
+.main{
+    background-color: #9fb8ad;
+    padding: 20px;
+    width: 660px;
+    float: right;
+}
+
+.main .mal{
+    width: 60%;
+    margin: 40px auto;
+}
+
+.main .mal img{
+    width: 100%;
+}
+
+.main .maggy{
+    width: 60%;
+    margin: 40px auto;
+}
+
+.main .maggy img{
+    width: 100%;
+}
+
+.main .chest{
+    width: 60%;
+    margin: 40px auto;
+}
+
+.main .chest img{
+    width: 100%;
+}
+
+iframe{
+    width: 623px;
+    height: 300px;
+}
+
+aside{
+    background: #92967d;
+    color: black; 
+    font-size: 15px; 
+    padding: 20px;
+    width: 260px;
+    float: right;
+}
+aside .items h3{
+    font-size: 25px;
+}
+aside .items{
+    text-align: center;
+}
+
+footer{
+    clear: both;
+    background: #383e56;
+    padding: 15px;
+    height: 50%;
+    width: 50%;
+}
+footer .steam img{
+    height: auto;
+    width: 55px;
+}
+
+footer .steam a{
+    color: black;
+    height: auto;
+    width: 2px;
+    margin: 2px auto;
+}
+
+footer .fb img{
+    height: auto;
+    width: 40px;
+}
+
+footer .fb a{
+    color: black;
+    height: auto;
+    width: 2px;
+    margin: 2px auto;
+}
